@@ -13,4 +13,9 @@ table tr{
     border-color:black;
     
 }
+.lesinputs{
+    position: absolute;
+    margin-left:auto;
+    margin-right:auto;
+}
 
